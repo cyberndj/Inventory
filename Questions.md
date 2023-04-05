@@ -17,4 +17,7 @@
 2. What things are broke?
 3. What things are working good?
 4. Is there a process for implementing network changes?
-5. How often are devices patched?    
+5. How often are devices patched?  
+6. What is "Business Critical"?
+7. What/how often do backups run?
+8.   
