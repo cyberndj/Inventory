@@ -21,9 +21,14 @@ Roles=Physical, VM, Container (Docker/Kubernetes/LXC)
 Type=NAS, SAN, FC, FCoE, Direct-Attached  
 Access-Method=NFS, CIFS/SAMBA, iSCSI, CEPH  
 
+[Voice]  
+{Type, Vendor, Model, Version, Count, Support Contract, SN(s), MSP-Managed, MSP-Owned, Notes}  
+Type=PBX, Phone, ATA, Server
+
 [PCs]  
 {Type, Vendor, Model, OS, Count, Support Contract, SN(s), MSP-Managed, MSP-Owned, Notes}  
 Type=Desktop, Laptop, VM  
 
 [Software]  
 {Type, Vendor, Product, Version, Support Contract, License, On-Server(s), MSP-Managed, MSP-Owned, Notes}  
+
