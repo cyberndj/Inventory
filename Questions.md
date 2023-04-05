@@ -10,14 +10,19 @@
 ## Local Admin
 1. General thoughts of the local admin.
 2. What areas does the local admin need to improve?  
-3.  What does the local admin do good?  
+3. What does the local admin do good?
+4. Last training taken or certification gained?
+5.   
 
 ## Technology/Network
-1. What are some ways the technology/network can improve.  
-2. What things are broke?
-3. What things are working good?
-4. Is there a process for implementing network changes?
-5. How often are devices patched?  
-6. What is "Business Critical"?
-7. What/how often do backups run?
-8.   
+1. Aare there any policies and procedures?
+2. What are some ways the technology/network can improve.  
+3. What things are broke?
+4. What things are working good?
+5. Is there a process for implementing network changes?
+6. How often are devices patched?  
+7. What is "Business Critical"?
+8. What/how often do backups run?
+9. What and how is monitored?
+10. Does everybody have a named account?
+11. Who has access to admin passwords?  
