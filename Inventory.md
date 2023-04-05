@@ -29,6 +29,10 @@ Type=PBX, Phone, ATA, Server
 {Type, Vendor, Model, OS, Count, Support Contract, SN(s), MSP-Managed, MSP-Owned, Notes}  
 Type=Desktop, Laptop, VM  
 
+[Printers]
+{Type, Vendor, Model, Count, Support Contract, SN(s), MSP-Managed, MSP-Owned, Notes}
+Type=Label, Paper, Receipt  
+
 [Software]  
 {Type, Vendor, Product, Version, Support Contract, License, On-Server(s), MSP-Managed, MSP-Owned, Notes}  
 
