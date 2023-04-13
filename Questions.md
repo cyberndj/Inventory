@@ -25,4 +25,10 @@
 8. What/how often do backups run?
 9. What and how is monitored?
 10. Does everybody have a named account?
-11. Who has access to admin passwords?  
+11. Who has access to admin passwords?
+
+
+## Administrative/Policy
+1. Is Information Awareness/Security training conducted annually?  
+2. Is there an "Acceptable Use Policy" (AUP)?
+3. Is access controlled to computer/networking rooms?
